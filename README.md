@@ -39,6 +39,9 @@
 - Shop Now Page
 ![Shop Now Page Screenshot](https://github.com/user-attachments/assets/ba27221e-0401-408c-90a1-41e132683f18)
 
+- Products Page
+![Products Page Screenshot](https://github.com/user-attachments/assets/87041664-694c-4ccb-87d8-5519464def22)
+
 - Services Page
 ![Services Page Screenshot](https://github.com/user-attachments/assets/b23dd7cc-3eb6-4a9c-96e6-f295d8226dc5)
 
@@ -54,12 +57,19 @@
 - Contact and Footer Page
 ![Contact Us and Footer Page Screenshot](https://github.com/user-attachments/assets/b6c4e7a9-0af1-4631-b342-b593233487b4)
 
+- Payment Page
+![Payment Page Screenshot](https://github.com/user-attachments/assets/70d0d7d1-1d54-4513-bd52-f737d53f82aa)
+
+- Order Placed  Page
+![Order Placed Page Screenshot](https://github.com/user-attachments/assets/ff5d901c-5eee-4606-a164-701b9b9f3f39)
 
 ## 👦 About Me
 Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I enjoy building responsive and user-friendly web applications. I'm always eager to learn new technologies and enhance my skills to create meaningful digital experiences.
 ## 🔗 Contact me on
 - [LinkedIn](https://www.linkedin.com/in/bhuvan-anupoju/)
 - [My Portfolio](https://bhuvan-anupoju.github.io/Bhuvan.dev/)
+
+
 
 
 

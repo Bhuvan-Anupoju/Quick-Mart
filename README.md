@@ -36,16 +36,16 @@
 - Home Page
 ![Home Page Screenshot](https://github.com/user-attachments/assets/84e77b0b-c476-4ce7-8eb3-3fffa909d132)
 
-- Shop Now Page
+- Shop Now Section
 ![Shop Now Page Screenshot](https://github.com/user-attachments/assets/ba27221e-0401-408c-90a1-41e132683f18)
 
 - Products Page
 ![Products Page Screenshot](https://github.com/user-attachments/assets/87041664-694c-4ccb-87d8-5519464def22)
 
-- Services Page
+- Services Section
 ![Services Page Screenshot](https://github.com/user-attachments/assets/b23dd7cc-3eb6-4a9c-96e6-f295d8226dc5)
 
-- News and Uptates Page 
+- News and Uptates Section 
 ![News and Updates Page Screenshot](https://github.com/user-attachments/assets/c5ce90e4-b2e3-4366-aee1-11d6bb8ede53)
 
 - Cart  Page
@@ -54,7 +54,7 @@
 - Contact Form Page
 ![Contact Form Page Screenshot](https://github.com/user-attachments/assets/02fd945b-c07a-4616-9c2d-7ac5cbd1bc5c)
 
-- Contact and Footer Page
+- Contact and Footer Section
 ![Contact Us and Footer Page Screenshot](https://github.com/user-attachments/assets/b6c4e7a9-0af1-4631-b342-b593233487b4)
 
 - Payment Page

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/jpg" href="Images/medcine3.jpg" />
+    <link rel="stylesheet" href="medicines.css" />
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+    <title>Medicines</title>
+  </head>
+  <body>
+    <div class="items-section">
+      <nav class="navbar">
+        <div class="title">
+          <img src="Images/medcine3.jpg" />
+          <h2 style="margin-left: 5px">Medicines</h2>
+        </div>
+      </nav>
+
+      <div class="items-container">
+        <div class="items-cards product">
+          <img
+            src="Products/Medicines/paracetmol.webp"
+            class="item-img"
+            id="paracetamol"
+          />
+          <div class="item-info">
+            <h2>Paracetamol</h2>
+            <div class="fav-price">
+              <div class="price"><p>₹150/-</p></div>
+            </div>
+            <button
+              class="cart-button"
+              onclick="addToCart(document.getElementById('paracetamol').src,'Paracetamol','150/-')"
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+        <div class="items-cards product">
+          <img
+            src="Products/Medicines/nasal.webp"
+            class="item-img"
+            id="nasal"
+          />
+          <div class="item-info">
+            <h2>Nasal Spray</h2>
+            <div class="fav-price">
+              <div class="price"><p>₹80/-</p></div>
+            </div>
+            <button
+              class="cart-button"
+              onclick="addToCart(document.getElementById('nasal').src,'Nasal Spray','₹80/-')"
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+        <div class="items-cards product">
+          <img
+            src="Products/Medicines/CoughSyrup.webp"
+            class="item-img"
+            id="CoughSyrup"
+          />
+          <div class="item-info">
+            <h2>Cough Syrup</h2>
+            <div class="fav-price">
+              <div class="price"><p>₹100/-</p></div>
+            </div>
+            <button
+              class="cart-button"
+              onclick="addToCart(document.getElementById('CoughSyrup').src,'Cough Syrup','₹100/-')"
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+        <div class="items-cards product">
+          <img
+            src="Products/Medicines/diegine.jpg"
+            class="item-img"
+            id="digene"
+          />
+          <div class="item-info">
+            <h2>Digene</h2>
+            <div class="fav-price">
+              <div class="price"><p>₹110/-</p></div>
+            </div>
+            <button
+              class="cart-button"
+              onclick="addToCart(document.getElementById('digene').src,'Digene','₹110/-')"
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+        <div class="items-cards product">
+          <img
+            src="Products/Medicines/pain relif.jpg"
+            class="item-img"
+            id="pain"
+          />
+          <div class="item-info">
+            <h2>Pain relif</h2>
+            <div class="fav-price">
+              <div class="price"><p>₹90/-</p></div>
+            </div>
+            <button
+              class="cart-button"
+              onclick="addToCart(document.getElementById('pain').src,'Pain relif','₹90/-')"
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+        <div class="items-cards product">
+          <img src="Products/Medicines/ors.webp" class="item-img" id="ors" />
+          <div class="item-info">
+            <h2>ORS Sachets</h2>
+            <div class="fav-price">
+              <div class="price"><p>₹60/-</p></div>
+            </div>
+            <button
+              class="cart-button"
+              onclick="addToCart(document.getElementById('ors').src,'ORS Sachets','₹60/-')"
+            >
+              Add to Cart
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      function addToCart(image, name, price) {
+        // Retrieve cart items from localStorage
+        let cartItems = JSON.parse(localStorage.getItem("cartItems")) || [];
+
+        // Add the new item to the cart array
+        cartItems.push({ image, name, price });
+
+        // Save the updated cart items back to localStorage
+        localStorage.setItem("cartItems", JSON.stringify(cartItems));
+
+        alert(name + " has been added to your cart!");
+      }
+    </script>
+  </body>
+</html>

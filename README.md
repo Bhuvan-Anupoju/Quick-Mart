@@ -6,7 +6,7 @@
 ## Live Website
 #### 🚀Experience  Quick Mart in Live!
 🔗Live Demo :
-[Quick Mart Live Link](https://bhuvan-anupoju.github.io/Netflix-Clone/)
+[Quick Mart Live Link](https://bhuvan-anupoju.github.io/Quick-Mart/)
 ## Project Banner
 ![Quick Mart Banner](https://github.com/user-attachments/assets/0554b689-31b7-4503-9378-37506d3e6aca)
 

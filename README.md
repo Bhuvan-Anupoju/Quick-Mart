@@ -52,7 +52,7 @@
 ![Contact Form Page Screenshot](https://github.com/user-attachments/assets/02fd945b-c07a-4616-9c2d-7ac5cbd1bc5c)
 
 - Contact and Footer Page
-![Contact Us and Footer Page Screenshot](Chttps://github.com/user-attachments/assets/8fa04d67-4d7e-422e-9f18-9d42331c4eb7)
+![Contact Us and Footer Page Screenshot](https://github.com/user-attachments/assets/b6c4e7a9-0af1-4631-b342-b593233487b4)
 
 
 ## 👦 About Me
@@ -65,5 +65,5 @@ Hi, I'm Bhuvan, a passionate web developer with a strong foundation in HTML, CSS
 
 
 
-<img width="2000" height="965" alt="Untitled design (8)" src="" />
+
 
